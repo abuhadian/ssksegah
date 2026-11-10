@@ -1,0 +1,8 @@
+{
+  "name": "SSK SMP Negeri 1 Segah",
+  "description": "Portal Edukasi Digital Sekolah Siaga Kependudukan (SSK) SMP Negeri 1 Segah untuk literasi kependudukan, GenRe, kesehatan remaja, dan pencegahan stunting jenjang SMP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
